@@ -49,7 +49,6 @@ rebracer.xml
 *~
 
 # Protobuild Generated Files
-*.csproj
 *.speccache
 *.ncrunchproject
 *.ncrunchsolution
